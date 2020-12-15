@@ -1,2 +1,4 @@
 /SumMatrix.class
 /TestMatrix.class
+/MultiThreadedSumMatrix.class
+/MultiThreadedSumMatrix$Worker.class
